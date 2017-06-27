@@ -1,0 +1,2 @@
+# nodejs_express_ejs_mongodb
+一个小demo，使用了express框架和mongoose模块
